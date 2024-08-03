@@ -25,6 +25,7 @@ img {
     background-color: rgb(224, 234, 243);
     border-radius: 10%;
     margin: 1em;
+    object-fit: contain;
 }
 
 .examples {
