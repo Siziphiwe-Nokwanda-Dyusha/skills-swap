@@ -1,4 +1,4 @@
- const STUDENT_NUMBER = '123456789';
+ const STUDENT_NUMBER = 7;
   const SITE_ID = 'library';
 
   // Keep a local array of comments
