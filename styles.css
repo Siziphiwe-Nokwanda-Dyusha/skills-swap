@@ -1,0 +1,96 @@
+h1 {
+    font-size: x-large;
+    align-self: center;
+}
+p {
+    color: black;
+}
+
+.top-section  {
+    display: flex;
+    background-color: #465074;
+    gap: 1em;
+}
+
+.home {
+    /* background-color: #5d6b9b; */
+    color: white;
+    display: flex;
+    gap: 1em;
+
+}
+
+img {
+    height: auto;
+    width: 50%;
+    background-color: rgb(183, 192, 201);
+    border-radius: 10%;
+    margin: 1em;
+    object-fit: contain;
+}
+
+.examples {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.into-section {
+    display: flex;
+    background-color: #465074;
+    gap: 1.5em;
+}
+
+.chatting {
+    height: auto;
+    width: 45%;
+}
+
+.columns {
+    width: 99%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #465074;
+    color: black;
+
+
+}
+
+
+.personal-info {
+    display: flex;
+    gap: 5%;
+}
+
+.example-img {
+    height: auto;
+    width: 45%;
+}
+
+.examples-section {
+    display: flex;
+    background-color: #465074;
+    gap: 1.5em;
+    justify-content: space-around;
+}
+
+footer {
+    padding-block: 3%;
+    padding-inline: 1%;
+    background-color:#465074;
+    p {
+        margin: 0;
+    }
+}
+.logo {
+    height:15%;
+    width:10%;
+}
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+}
