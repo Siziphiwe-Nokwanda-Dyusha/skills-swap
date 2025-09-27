@@ -108,3 +108,7 @@ footer {
 .comments-heading {
     text-align: center;
 }
+
+button a {
+    text-decoration: none;
+}
